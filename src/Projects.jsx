@@ -30,16 +30,15 @@ function Projects() {
   </p>
 
   <div className="flex gap-3 flex-wrap">
-
-    {/* 🔗 Live Demo */}
-    <a
-      href="https://salary-predictor-7meo7qzje-sujitk04s-projects.vercel.app"
-      target="_blank"
-      rel="noopener noreferrer"
-      className="px-4 py-2 bg-sky-500 rounded-full text-sm hover:bg-sky-600"
-    >
-      🚀 Live Demo
-    </a>
+{/* 🔗 Live Demo */}
+<a
+  href="https://salary-predictor-xi.vercel.app"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="px-4 py-2 bg-sky-500 rounded-full text-sm hover:bg-sky-600 transition"
+>
+  🚀 Live Demo
+</a>
 
     {/* 💻 GitHub Repo */}
     <a
